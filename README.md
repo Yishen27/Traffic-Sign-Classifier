@@ -5,7 +5,7 @@ network and machine learning. The code is capable of taking in images of traffic
 
 
 ## Model structure
-The model mainly applied a LeNet-5 nerual network with dropout layer.
+The model mainly applied a LeNet-5 nerual network with dropout layer. More detail can be found in the code and writeup.md.
 
 ## Model performance
 The code was trained and validated by a standard German traffic sign data set splitted into training and validation set. It reached
@@ -25,4 +25,5 @@ The code was trained and validated by a standard German traffic sign data set sp
  The original readme file of this project.
  
  - final_test
+ 
  Folder with final test images.

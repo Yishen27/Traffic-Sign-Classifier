@@ -1,7 +1,7 @@
 # Traffic-Sign-Classifier
 ----
 This is a Udacity project aimming at generating code that can recognize and classify traffic signs based on neural 
-network and machine learning. The code is capable of taking in images of traffic signs and returns the calss with highest probability.
+network and machine learning. The code is capable of taking in images of traffic signs and returns the class with highest probability.
 
 
 ## Model structure
